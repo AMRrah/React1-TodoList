@@ -1,4 +1,4 @@
-import styles from "../styles/modules/todoitem.module.scss";
+import styles from "../styles/modules/todoItem.module.scss";
 import { motion } from "framer-motion";
 import { format } from "date-fns";
 import { getClasses } from "../utils/getClass";
