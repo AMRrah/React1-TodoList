@@ -1,5 +1,5 @@
 import { motion, useMotionValue, useTransform } from "framer-motion";
-import styles from "../styles/modules/todoitem.module.scss";
+import styles from "../styles/modules/todoItem.module.scss";
 
 const checkvariants = {
   initial: {
